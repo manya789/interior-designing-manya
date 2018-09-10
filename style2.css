@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    border-color: black;
+    border-radius: 15px;
+}
+body{
+    background-image:url(oc34.jpg);
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+body h1{
+    margin:0px 0px 0px 110px;
+    padding: 15px;
+    font-size: 35px;
+    color:#000;
+    
+}
+.register{
+    background:linear-gradient(to right,black,rgba(0, 0, 0, 0.5));
+
+    width: 450px;
+    margin:0px 0px 0px 50px;    
+    border-color: black;
+    color: white;
+    font-size:18px;
+    font-style:italic;
+    padding:30px;
+    border-radius:10px;
+}
+#register{
+    margin in-left:80px;
+}
+label{
+    color:white;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: italic;
+}
+#name
+{   padding: 5px;
+    border-color:black;
+    border-radius: 12px;
+    outline: 0;
+}    
+#ph {padding: 5px;
+    border-color: black;
+    border-radius: 12px;
+    outline: 0;
+}    
+#Number{padding: 5px;
+    border-color: black;
+    border-radius: 12px;
+    outline: 0;
+}
+#date{padding: 5px;
+    border-color: black;
+    border-radius: 12px;
+    outline: 0;}
+#Email{padding: 5px;
+    border-color: black;
+    border-radius: 12px;
+    outline: 0;}
+#Password{padding: 5px;
+    border-color: black;
+    border-radius: 12px;
+    outline: 0;}
+#Confirm password
+{       padding: 5px;
+        border-color:black;
+        border-radius: 12px;
+        outline: 0;}
+        
+#tech        
+{           padding: 5px;
+            border-color: black;
+            border-radius: 12px;
+            outline: 0;}
+#point            
+{                padding: 5px;
+                border-color:black;
+                border-radius: 12px;
+                outline: 0;}
+ #you          
+ {              padding: 5px;
+                border-color: black;
+                border-radius: 12px;
+                outline: 0;}
+#Submit{
+padding: 9px;
+ font-size: 20px;
+ font-family:sans-serif;
+ border-radius:3px;
+ outline: 0;
+ width: 200px;
+ 
+}
